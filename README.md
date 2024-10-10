@@ -1,4 +1,4 @@
-# Single-Page-CV-Project
-Create a single-page HTML CV to showcase your career history
+# Roadmap Practice Project
+A place for all my practice project
 
-https://roadmap.sh/projects/single-page-cv
+Single Page CV Project: https://roadmap.sh/projects/single-page-cv
